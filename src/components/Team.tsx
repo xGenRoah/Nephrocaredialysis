@@ -4,7 +4,6 @@ import { Phone, Mail, Award, GraduationCap, Star } from 'lucide-react';
 const doctors = [
   {
     name: 'Mohammed Fahad Khan',
-    credentials: ,
     role: 'Founder, Vice Chairman',
     roleShort: 'Founder & VC',
     contact: '+91 6398311550',
@@ -17,7 +16,6 @@ const doctors = [
   },
   {
     name: 'Tausif',
-    credentials: ,
     role: 'Senior Consultant Nephrologist',
     roleShort: 'Founder, Owner',
     contact: null,
