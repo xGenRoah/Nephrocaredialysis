@@ -5,7 +5,7 @@ const doctors = [
   {
     name: 'Mohammed Fahad Khan',
     credentials: ,
-    role: 'Founder, Owner & Vice Chairman',
+    role: 'Founder, Vice Chairman',
     roleShort: 'Founder & VC',
     contact: '+91 6398311550',
     email: 'mohammedfahadkhan410@gmail.com',
@@ -19,7 +19,7 @@ const doctors = [
     name: 'Tausif',
     credentials: ,
     role: 'Senior Consultant Nephrologist',
-    roleShort: 'Senior Consultant',
+    roleShort: 'Founder, Owner',
     contact: null,
     email: null,
     description: 'Tausif serves as Senior Consultant Nephrologist at Nephrocare, contributing decades of specialized kidney care experience. He leads complex case management and mentors the clinical team to ensure every patient receives evidence-based, individualized care.',
